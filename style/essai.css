@@ -1,0 +1,27 @@
+footer li {
+
+font-size: 200%;
+font-weight: 500;
+background-color: #343a40;
+border-radius: 50%;
+width: 50px;
+}
+footer a{
+	color: white;
+}
+footer li:hover{
+		background-color: #fec810;
+		color: white;
+}
+#fb: hover{
+	color: white;
+}
+#twitt :hover{
+	color: white;
+}
+#linked:hover{
+	color:white;
+}
+#insta:hover{
+	color: red;
+}
